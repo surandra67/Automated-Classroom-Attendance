@@ -1,0 +1,149 @@
+attendance/facenet/dataset/aligned\AYAN BURMA\IMG_20240304_151225.png 1842 469 2478 1308
+attendance/facenet/dataset/aligned\AYAN BURMA\IMG_20240304_151259.png 1797 378 2481 1269
+attendance/facenet/dataset/aligned\AYAN BURMA\IMG_20240304_151302.png 1945 228 2575 1067
+attendance/facenet/dataset/aligned\AYAN BURMA\IMG_20240304_151304.png 1936 385 2549 1209
+attendance/facenet/dataset/aligned\AYAN BURMA\IMG_20240304_151305.png 2067 492 2606 1260
+attendance/facenet/dataset/aligned\AYAN BURMA\IMG_20240304_151307.png 1964 518 2583 1377
+attendance/facenet/dataset/aligned\AYAN BURMA\IMG_20240304_151309.png 1973 485 2620 1358
+attendance/facenet/dataset/aligned\AYAN BURMA\IMG_20240304_151311.png 1907 498 2546 1373
+attendance/facenet/dataset/aligned\AYAN BURMA\IMG_20240304_151313.png 1832 574 2465 1372
+attendance/facenet/dataset/aligned\AYAN BURMA\IMG_20240304_151314.png 1803 597 2441 1443
+attendance/facenet/dataset/aligned\AYAN BURMA\IMG_20240304_151315.png 2261 730 2707 1435
+attendance/facenet/dataset/aligned\AYAN BURMA\IMG_20240304_151318.png 2011 684 2661 1558
+attendance/facenet/dataset/aligned\AYAN BURMA\IMG_20240304_151323.png 2141 687 2751 1559
+attendance/facenet/dataset/aligned\AYAN BURMA\IMG_20240304_151325.png 1530 543 2239 1454
+attendance/facenet/dataset/aligned\AYAN BURMA\IMG_20240304_151328.png 1817 940 2537 1664
+attendance/facenet/dataset/aligned\AYAN BURMA\IMG_20240304_151329.png 1799 906 2580 1724
+attendance/facenet/dataset/aligned\AYAN BURMA\IMG_20240304_151331.png 1893 591 2571 1507
+attendance/facenet/dataset/aligned\AYAN BURMA\IMG_20240304_151338.png 1739 291 2481 1279
+attendance/facenet/dataset/aligned\AYAN BURMA\IMG_20240304_151339.png 1680 378 2520 1412
+attendance/facenet/dataset/aligned\KHUSHAL KUMAWAT\IMG_20240304_151535.png 1760 425 2478 1343
+attendance/facenet/dataset/aligned\KHUSHAL KUMAWAT\IMG_20240304_151536.png 1519 531 2231 1401
+attendance/facenet/dataset/aligned\KHUSHAL KUMAWAT\IMG_20240304_151538.png 1489 577 2183 1417
+attendance/facenet/dataset/aligned\KHUSHAL KUMAWAT\IMG_20240304_151541.png 1782 566 2512 1509
+attendance/facenet/dataset/aligned\KHUSHAL KUMAWAT\IMG_20240304_151541_1.png 1809 561 2519 1494
+attendance/facenet/dataset/aligned\KHUSHAL KUMAWAT\IMG_20240304_151543.png 1699 752 2426 1633
+attendance/facenet/dataset/aligned\KHUSHAL KUMAWAT\IMG_20240304_151544.png 1722 760 2448 1635
+attendance/facenet/dataset/aligned\KHUSHAL KUMAWAT\IMG_20240304_151546.png 1657 718 2397 1574
+attendance/facenet/dataset/aligned\KHUSHAL KUMAWAT\IMG_20240304_151547.png 1682 713 2382 1586
+attendance/facenet/dataset/aligned\KHUSHAL KUMAWAT\IMG_20240304_151548.png 1673 561 2354 1407
+attendance/facenet/dataset/aligned\KHUSHAL KUMAWAT\IMG_20240304_151549.png 1715 582 2373 1387
+attendance/facenet/dataset/aligned\KHUSHAL KUMAWAT\IMG_20240304_151550.png 1813 526 2478 1287
+attendance/facenet/dataset/aligned\KHUSHAL KUMAWAT\IMG_20240304_151550_1.png 1788 522 2452 1320
+attendance/facenet/dataset/aligned\KHUSHAL KUMAWAT\IMG_20240304_151551.png 1917 501 2555 1249
+attendance/facenet/dataset/aligned\KHUSHAL KUMAWAT\IMG_20240304_151552.png 1897 506 2520 1246
+attendance/facenet/dataset/aligned\KHUSHAL KUMAWAT\IMG_20240304_151553.png 1944 587 2549 1342
+attendance/facenet/dataset/aligned\KHUSHAL KUMAWAT\IMG_20240304_151554.png 2021 565 2626 1419
+attendance/facenet/dataset/aligned\KHUSHAL KUMAWAT\IMG_20240304_151554_1.png 2009 634 2656 1470
+attendance/facenet/dataset/aligned\KHUSHAL KUMAWAT\IMG_20240304_151555.png 2017 643 2686 1488
+attendance/facenet/dataset/aligned\KHUSHAL KUMAWAT\IMG_20240304_151556.png 1923 706 2582 1559
+attendance/facenet/dataset/aligned\KHUSHAL KUMAWAT\IMG_20240304_151558.png 1883 571 2596 1515
+attendance/facenet/dataset/aligned\KHUSHAL KUMAWAT\IMG_20240304_151559.png 1903 607 2589 1499
+attendance/facenet/dataset/aligned\KHUSHAL KUMAWAT\IMG_20240304_151601.png 1792 611 2509 1463
+attendance/facenet/dataset/aligned\KHUSHAL KUMAWAT\IMG_20240304_151601_1.png 1800 609 2486 1463
+attendance/facenet/dataset/aligned\KHUSHAL KUMAWAT\IMG_20240304_151602.png 1812 587 2503 1448
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151711.png 1870 502 2607 1455
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151712.png 1853 445 2644 1460
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151713.png 1894 387 2665 1383
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151716.png 1948 328 2668 1340
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151717.png 2022 571 2740 1510
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151718.png 2093 548 2820 1517
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151719.png 1973 272 2735 1222
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151720.png 1953 295 2690 1240
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151720_1.png 1958 260 2730 1178
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151721.png 1835 326 2553 1125
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151722.png 1877 325 2600 1142
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151723.png 1852 411 2569 1306
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151723_1.png 1783 578 2575 1599
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151724.png 1727 515 2500 1540
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151725.png 1701 381 2402 1340
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151726.png 1676 367 2416 1314
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151727.png 1777 337 2504 1164
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151727_1.png 1746 322 2488 1170
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151728.png 1533 661 2326 1634
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151729.png 1491 593 2313 1615
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151730.png 1869 476 2674 1538
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151731.png 1848 543 2609 1535
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151732.png 1880 533 2644 1502
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151733.png 1807 417 2584 1466
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151734.png 1827 317 2680 1413
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151735.png 1815 435 2573 1449
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151738.png 1750 489 2379 1273
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151738_1.png 1828 459 2450 1225
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151739.png 1774 435 2396 1212
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151740.png 1776 413 2426 1256
+attendance/facenet/dataset/aligned\MIHIR\IMG_20240304_151741.png 1787 402 2442 1236
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_33_42_Pro.png 572 234 838 566
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_33_44_Pro.png 570 232 826 568
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_33_45_Pro.png 568 239 834 574
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_33_47_Pro.png 571 238 837 570
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_33_48_Pro.png 542 234 798 561
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_33_50_Pro.png 468 232 728 571
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_33_51_Pro.png 454 239 705 570
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_33_53_Pro.png 549 204 799 504
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_33_56_Pro.png 569 211 828 508
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_33_58_Pro.png 601 222 862 560
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_34_00_Pro.png 587 181 859 514
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_34_02_Pro.png 539 239 808 588
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_34_03_Pro.png 532 254 803 597
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_34_04_Pro.png 492 267 776 604
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_34_05_Pro.png 461 302 745 641
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_34_07_Pro.png 586 275 859 618
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_34_10_Pro.png 651 248 913 574
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_34_11_Pro.png 648 227 926 571
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_34_12_Pro.png 648 215 940 578
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_34_13_Pro.png 580 239 864 568
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_34_14_Pro.png 544 251 820 577
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_34_15_Pro.png 569 237 838 552
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_34_16_Pro.png 582 229 852 545
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_35_15_Pro.png 600 221 871 559
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_35_16_Pro.png 603 220 869 527
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_35_17_Pro.png 655 196 907 505
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_35_19_Pro.png 640 175 901 470
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_35_21_Pro.png 528 210 796 543
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_35_22_Pro.png 481 240 732 578
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_35_23_Pro.png 475 243 729 575
+attendance/facenet/dataset/aligned\SACHIN KUMAR\WIN_20240304_15_35_24_Pro.png 588 200 846 530
+attendance/facenet/dataset/aligned\SURADNRA MEENA\WIN_20230911_18_49_54_Pro.png 605 175 858 471
+attendance/facenet/dataset/aligned\SURADNRA MEENA\WIN_20240304_15_06_32_Pro.png 537 177 783 463
+attendance/facenet/dataset/aligned\SURADNRA MEENA\WIN_20240304_15_06_33_Pro.png 541 178 782 463
+attendance/facenet/dataset/aligned\SURADNRA MEENA\WIN_20240304_15_06_34_Pro.png 525 168 760 455
+attendance/facenet/dataset/aligned\SURADNRA MEENA\WIN_20240304_15_06_36_Pro.png 526 161 760 428
+attendance/facenet/dataset/aligned\SURADNRA MEENA\WIN_20240304_15_06_37_Pro.png 543 184 787 466
+attendance/facenet/dataset/aligned\SURADNRA MEENA\WIN_20240304_15_06_39_Pro.png 541 174 784 467
+attendance/facenet/dataset/aligned\SURADNRA MEENA\WIN_20240304_15_06_41_Pro.png 550 174 795 461
+attendance/facenet/dataset/aligned\SURADNRA MEENA\WIN_20240304_15_06_42_Pro.png 567 169 801 455
+attendance/facenet/dataset/aligned\SURADNRA MEENA\WIN_20240304_15_06_44_Pro.png 562 160 809 448
+attendance/facenet/dataset/aligned\SURADNRA MEENA\WIN_20240304_15_06_46_Pro.png 556 153 791 397
+attendance/facenet/dataset/aligned\SURADNRA MEENA\WIN_20240304_15_06_48_Pro.png 526 164 756 440
+attendance/facenet/dataset/aligned\SURADNRA MEENA\WIN_20240304_15_06_49_Pro.png 523 161 760 451
+attendance/facenet/dataset/aligned\SURADNRA MEENA\WIN_20240304_15_06_51_Pro.png 572 171 811 451
+attendance/facenet/dataset/aligned\SURADNRA MEENA\WIN_20240304_15_06_52_Pro.png 571 163 811 460
+attendance/facenet/dataset/aligned\SURADNRA MEENA\WIN_20240304_15_06_54_Pro.png 584 199 843 511
+attendance/facenet/dataset/aligned\SURADNRA MEENA\WIN_20240304_15_06_55_Pro.png 579 236 841 541
+attendance/facenet/dataset/aligned\SURADNRA MEENA\WIN_20240304_15_06_57_Pro.png 534 224 790 524
+attendance/facenet/dataset/aligned\SURADNRA MEENA\WIN_20240304_15_06_59_Pro.png 547 151 776 394
+attendance/facenet/dataset/aligned\SURADNRA MEENA\WIN_20240304_15_07_01_Pro.png 548 150 769 389
+attendance/facenet/dataset/aligned\SURADNRA MEENA\WIN_20240304_15_07_03_Pro.png 516 159 752 443
+attendance/facenet/dataset/aligned\SURADNRA MEENA\WIN_20240304_15_07_06_Pro.png 530 169 781 452
+attendance/facenet/dataset/aligned\SURADNRA MEENA\WIN_20240304_15_07_08_Pro.png 531 196 785 502
+attendance/facenet/dataset/aligned\TIYA ROY\WhatsApp Image 2024-03-04 at 11.52.39 AM (1).png 532 175 765 471
+attendance/facenet/dataset/aligned\TIYA ROY\WhatsApp Image 2024-03-04 at 11.52.39 AM (10).png 551 263 796 568
+attendance/facenet/dataset/aligned\TIYA ROY\WhatsApp Image 2024-03-04 at 11.52.39 AM (11).png 544 211 858 620
+attendance/facenet/dataset/aligned\TIYA ROY\WhatsApp Image 2024-03-04 at 11.52.39 AM (12).png 514 168 784 548
+attendance/facenet/dataset/aligned\TIYA ROY\WhatsApp Image 2024-03-04 at 11.52.39 AM (13).png 475 91 723 457
+attendance/facenet/dataset/aligned\TIYA ROY\WhatsApp Image 2024-03-04 at 11.52.39 AM (14).png 462 119 714 490
+attendance/facenet/dataset/aligned\TIYA ROY\WhatsApp Image 2024-03-04 at 11.52.39 AM (15).png 525 90 793 453
+attendance/facenet/dataset/aligned\TIYA ROY\WhatsApp Image 2024-03-04 at 11.52.39 AM (16).png 552 153 792 465
+attendance/facenet/dataset/aligned\TIYA ROY\WhatsApp Image 2024-03-04 at 11.52.39 AM (17).png 534 179 775 453
+attendance/facenet/dataset/aligned\TIYA ROY\WhatsApp Image 2024-03-04 at 11.52.39 AM (18).png 591 171 836 493
+attendance/facenet/dataset/aligned\TIYA ROY\WhatsApp Image 2024-03-04 at 11.52.39 AM (19).png 516 160 763 497
+attendance/facenet/dataset/aligned\TIYA ROY\WhatsApp Image 2024-03-04 at 11.52.39 AM (2).png 545 174 789 474
+attendance/facenet/dataset/aligned\TIYA ROY\WhatsApp Image 2024-03-04 at 11.52.39 AM (3).png 605 162 838 452
+attendance/facenet/dataset/aligned\TIYA ROY\WhatsApp Image 2024-03-04 at 11.52.39 AM (4).png 628 168 844 461
+attendance/facenet/dataset/aligned\TIYA ROY\WhatsApp Image 2024-03-04 at 11.52.39 AM (5).png 624 203 848 502
+attendance/facenet/dataset/aligned\TIYA ROY\WhatsApp Image 2024-03-04 at 11.52.39 AM (6).png 609 163 828 453
+attendance/facenet/dataset/aligned\TIYA ROY\WhatsApp Image 2024-03-04 at 11.52.39 AM (7).png 596 155 810 428
+attendance/facenet/dataset/aligned\TIYA ROY\WhatsApp Image 2024-03-04 at 11.52.39 AM (8).png 579 164 807 434
+attendance/facenet/dataset/aligned\TIYA ROY\WhatsApp Image 2024-03-04 at 11.52.39 AM (9).png 567 192 803 496
+attendance/facenet/dataset/aligned\TIYA ROY\WhatsApp Image 2024-03-04 at 11.52.39 AM.png 566 164 802 467

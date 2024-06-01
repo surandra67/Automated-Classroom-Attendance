@@ -1,0 +1,136 @@
+{% extends "layout.html" %} {% block content %}
+{% if saved %}
+<div class="alert alert-success" role="alert">
+  Attendance marked successfully
+</div>
+{% endif %}
+<div class="row justify-content-center" style="margin-top: 150px">
+  {% if attendanceData is not defined %}
+  <h1 class="w-100 text-center">Please upload the image of the classroom.</h1>
+  <form class="col-md-4" style="margin-top: 10px">
+    <!-- <label class="w-100" for="input-file">Upload The Image Of The Class</label><br /><br/> -->
+    <input  type="file" id="image-file" accept="image/*" />
+
+    <input
+      type="button"
+      class="btn btn-info btn-lg mt-3"
+      style="background-color: #3756af"
+      value="Recognize"
+      onclick="handleClick()"
+      id="recognize-btn"
+    />
+  </form>
+
+  {% endif %} {% if attendanceData %}
+  <div class="col">
+    <h1>Attendance Sheet</h1>
+    <br />
+    <form id="mark-attendance" onsubmit="handleFormSubmit(event)">
+      <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Name</th>
+            <th scope="col">Is Present</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for key, value in attendanceData.items() %}
+          <tr
+            class="{% if value %}table-success {%else%} table-danger{% endif %}"
+          >
+            <th scope="row">{{loop.index}}</th>
+            <td>{{key}}</td>
+            <td>
+              <input
+                type="checkbox"
+                name="{{key}}"
+                id="{{key}}"
+                style="width: 1.5em; height: 1.5em"
+                onchange="handleCheckboxChange(event)"
+                {%
+                if
+                value
+                %}
+                checked
+                {%
+                endif
+                %}
+              />
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      <button class="btn btn-info btn-lg" id="mark" type="submit">
+        Mark Attendance
+      </button>
+    </form>
+  </div>
+  {% endif %} {% if outImage %}
+  <div class="mt-3">
+    <img style="width: 100%" src="{{ url_for('static', filename=outImage) }}" />
+  </div>
+  {% endif %}
+</div>
+
+<script type="text/javascript">
+  function handleCheckboxChange(event) {
+    const cbox = event.currentTarget;
+    const isChecked = cbox.checked;
+    const parentRow = cbox.parentNode.parentNode;
+    if (isChecked) {
+      parentRow.classList.remove("table-danger");
+      parentRow.classList.add("table-success");
+    } else {
+      parentRow.classList.remove("table-success");
+      parentRow.classList.add("table-danger");
+    }
+  }
+
+  function handleFormSubmit(e) {
+    e.preventDefault();
+    const data = {};
+    const inputs = document.querySelectorAll(
+      "#mark-attendance input[type='checkbox']"
+    );
+    const checkboxes = Array.from(inputs).filter((i) => i.type === "checkbox");
+    checkboxes.forEach((box) => {
+      data[box.name] = box.checked;
+    });
+    fetch("{{ url_for('mark') }}", {
+      method: "POST",
+      body: JSON.stringify(data),
+      headers: {
+        "Content-Type": "application/json",
+      },
+    })
+      .then((response) => {
+        return response.text();
+      })
+      .then((html) => {
+        document.body.innerHTML = html;
+      });
+  }
+
+  function handleClick() {
+    const selectedFile = document.getElementById("image-file").files[0];
+    if (selectedFile) upload(selectedFile);
+    else alert("Please select an image!");
+  }
+  function upload(file) {
+    var formdata = new FormData();
+    formdata.append("image", file);
+    fetch("{{ url_for('face_recog') }}", {
+      method: "POST",
+      body: formdata,
+    })
+      .then((response) => {
+        return response.text();
+      })
+      .then((html) => {
+        document.body.innerHTML = html;
+      });
+  }
+</script>
+{% endblock content %}
